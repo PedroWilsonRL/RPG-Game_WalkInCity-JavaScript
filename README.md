@@ -13,8 +13,8 @@ Font "Game Over" by Pedro M. Pastor
 # /-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-//-/-/-/-/-/-/-/-/-/-/-/-/-/
 Music: https://www.youtube.com/watch?v=Ph27nPMic4E
 
-# Play RPG:
-https://pedrowilsonrl.github.io/RPG-Game_WalkInCity-JavaScript/
+# Updated project:
+https://github.com/PedroWilsonRL/RPG-Full-Metal-Battle-2d/tree/main
 
 # Missing fixes: 
 Finish implementing all barriers.
